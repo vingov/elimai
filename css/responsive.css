@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+  /* line 6, ../sass/responsive.scss */
+  #page-wrapper #header #name-and-slogan {
+    padding: 10px 0 10px 0;
+  }
+
+  /* line 9, ../sass/responsive.scss */
+  #page-wrapper #header #navigation {
+    padding-top: 15px;
+  }
+
+  /* line 12, ../sass/responsive.scss */
+  #page-wrapper #header .region-header .form-search .input-append {
+    clear: both;
+  }
+}
